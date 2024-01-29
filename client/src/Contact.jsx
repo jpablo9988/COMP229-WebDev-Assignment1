@@ -1,3 +1,10 @@
+/*
+     File Name: Contact.jsx
+          Returns the HTML information for the CONTACT ME page.
+     Student Name: Juan Pablo Amorocho
+     Student ID: 301410163
+     Date: 28/01/2024
+*/
 export default function Contact()
 {
     return(

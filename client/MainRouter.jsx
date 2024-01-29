@@ -1,3 +1,11 @@
+/*
+     File Name: MainRouter.jsx
+          Sets the different possible links that this site has.
+     Student Name: Juan Pablo Amorocho
+     Student ID: 301410163
+     Date: 28/01/2024
+*/
+
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Home from './components/Home'

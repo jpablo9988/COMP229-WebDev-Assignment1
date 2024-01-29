@@ -1,3 +1,11 @@
+/*
+     File Name: Project.jsx
+          Returns the HTML information for the PROJECT page.
+     Student Name: Juan Pablo Amorocho
+     Student ID: 301410163
+     Date: 28/01/2024
+*/
+
 import Project1 from '../src/assets/project1.jpg';
 import Project2 from '../src/assets/project2.jpg';
 import Project3a from '../src/assets/project3a.png';

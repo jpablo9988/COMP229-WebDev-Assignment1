@@ -1,3 +1,10 @@
+/*
+     File Name: Home.jsx
+          Returns the HTML information for the portfolio home screen.
+     Student Name: Juan Pablo Amorocho
+     Student ID: 301410163
+     Date: 28/01/2024
+*/
 export default function Home() {
      return(
           <>

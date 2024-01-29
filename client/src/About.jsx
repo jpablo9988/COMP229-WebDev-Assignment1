@@ -1,4 +1,10 @@
-
+/*
+     File Name: About.jsx
+          Returns the HTML information for the ABOUT ME page.
+     Student Name: Juan Pablo Amorocho
+     Student ID: 301410163
+     Date: 28/01/2024
+*/
 import MePicture from '../src/assets/aboutmepic.jpg';
 
 export default function About() {

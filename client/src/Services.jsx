@@ -1,3 +1,11 @@
+/*
+     File Name: Services.jsx
+          Returns the HTML information for the SERVICES page.
+     Student Name: Juan Pablo Amorocho
+     Student ID: 301410163
+     Date: 28/01/2024
+*/
+
 import Services1 from '../src/assets/services1.jpg';
 import Services2 from '../src/assets/services2.jpeg';
 import Services3 from '../src/assets/services3.jpg';

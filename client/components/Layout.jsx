@@ -1,3 +1,10 @@
+/*
+     File Name: Layout.jsx
+          Contains the main page navigation layout and logo.
+     Student Name: Juan Pablo Amorocho
+     Student ID: 301410163
+     Date: 28/01/2024
+*/
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Logo from '../src/assets/jpmakesgames.png';
