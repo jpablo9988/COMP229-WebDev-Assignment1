@@ -13,7 +13,7 @@ import About from './src/About'
 import Contact from './src/Contact'
 import Project from './src//Project'
 import Layout from './components/Layout'
-import Services from './src/services'
+import Services from './src/Services'
 
 const MainRouter = () => {
         return (<div>
