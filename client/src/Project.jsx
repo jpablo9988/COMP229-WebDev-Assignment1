@@ -47,7 +47,7 @@ export default function Project()
                                     </p>
                                 </li>
                                 <li>
-                                    <h4>RNGesus: Wrongly Roled</h4>
+                                    <h4>RNGesus: Wrongly Rolled</h4>
                                     <img src={Project3b}alt="project3" className="picture" width="200px" height="150px"/>
                                     <p>
                                         RNGesus: Wrongly Rolled is a puzzle game developed for the GMToolkit game jam in one week. <br></br>
