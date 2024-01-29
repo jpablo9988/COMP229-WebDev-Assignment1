@@ -68,17 +68,12 @@ div.container
   text-align: center;
 }
 ol {
-
   display: inline-block;
-  text-align: center;
+  text-align: left;
 }
 ul.myUL {
   display: inline-block;
-  text-align: center;
-}
-li
-{
-  text-align: center;
+  text-align: left;
 }
 .logo {
   display: block;

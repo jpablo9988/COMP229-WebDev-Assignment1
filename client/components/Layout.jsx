@@ -4,7 +4,7 @@ import Logo from '../src/assets/jpmakesgames.png';
 export default function Layout() {
      return (
         <>
-            <img src={Logo}alt="logo" className="logo" width="160px" height="160px"/>
+            <img src={Logo}alt="logo" className="logo" width="240px" height="240px"/>
             <h1>
             <b> Portafolio Page </b>
              </h1>
